@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/WebDimension1/blue_flags_gr" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Alijohny/JustJava.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\George\AndroidStudioProjects" />
